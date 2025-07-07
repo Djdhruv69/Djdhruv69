@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Djdhruv69
+- 👋 Hi, I’m @Djdhruv
 - 👀 I’m interested in python
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web dev projects
